@@ -5,4 +5,4 @@ plotly
 dash_bootstrap_components
 gunicorn
 numexpr==2.7.3;
-python_version=="3.10"
+python_version=="3.10.2" 
