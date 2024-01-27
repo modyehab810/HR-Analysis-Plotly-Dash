@@ -1,2 +1,2 @@
-# HR-Analysis-Plotly-Dash
-HR Analysis | Plotly Dashboard
+# HR-Analysis-And-Plotly-Dashboard
+HR Analysis | Plotly Dashboard📊🥰
