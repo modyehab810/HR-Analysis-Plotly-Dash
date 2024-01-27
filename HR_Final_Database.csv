@@ -1,0 +1,91 @@
+,ID,Employee,Gender,Birth_Date,Education,City,Position,Performance_Review,Salary,Hire_Date,Last_Promotion_Date,Termination_Date,Termination_Reason,Overdue_Vacation,Department,Manager
+0,1,Harley Matthews,Female,1989-08-17,Higher Certificate,Alabama,Administrator,10,4539,2011-10-02,,,,No,Finance / Accounting,Phelipp
+1,2,Aliyah Thomas,Female,1988-03-27,Higher Certificate, Arizona,Lawyer,10,3698,2012-03-22,,2015-05-01,Unfair Dismissal,Yes,Legal,Anna
+2,3,Madeleine Bradley,Female,1981-04-18,Bachelor's Incompleted,Colorado,Administrative Analyst,8,4157,2012-08-24,,2016-06-19,Resignation,Yes,Finance / Accounting,Phelipp
+3,4,Gabrielle Gardner,Female,2002-10-31,Bachelor's Completed,Missouri,Accounting Analyst,10,4360,2012-11-12,,,,Yes,Finance / Accounting,Phelipp
+4,5,Molly Owen,Female,1979-10-22,Bachelor's Completed,New York,Database Analyst,7,4144,2013-09-18,,,,Yes,Strategy,Antonella
+5,6,Lilah Gill,Female,1980-10-05,Bachelor's Completed,Ohio,Business Intelligence Analyst,5,4257,2014-01-16,,2017-10-17,Resignation,No,Strategy,Antonella
+6,7,Winnie May,Female,1992-11-16,Bachelor's Completed,Oregon,Communication Analyst,8,4534,2014-04-26,,2017-10-07,Unfair Dismissal,No,Marketing,Phelipp
+7,8,Blossom Howard,Female,1996-09-20,Major's, Arizona,Personnel Analyst,9,4094,2014-05-08,2017-08-12,,,Yes,Finance / Accounting,Phelipp
+8,9,Anayah Armstrong,Female,1975-03-01,Major's, Montana,Marketing Analyst,9,4289,2014-06-15,,,,Yes,Marketing,Phelipp
+9,10,Isabel Wood,Female,1974-10-13,Major's,Missouri,Business Analyst,9,3834,2014-11-30,,,,Yes,Development,Leyla
+10,11,Nia Moore,Female,1979-05-04,Postgraduate,New York,Market Research Analyst,5,3917,2014-12-17,,,,Yes,Sales,Gabriela
+11,12,Olivia-Rose Houghton,Female,1986-08-30,Postgraduate,Ohio,Salesperson,9,3625,2015-01-21,,2015-10-02,Dismissal,No,Sales,Gabriela
+12,13,Aurelia Allen,Female,1969-06-26,Master's,Oregon,Technical Support Analyst,6,4157,2015-02-05,,,,No,Technology,Sidney
+13,14,Alexandra Fraser,Female,1984-04-07,Doctoral,Missouri,Test Analyst,5,4307,2015-05-01,,,,No,Development,Leyla
+14,15,Ruby Wilson,Female,1992-10-28,Higher Certificate,New York,Usability Analyst,8,4008,2015-05-01,2017-08-12,,,No,Development,Leyla
+15,16,Betty Lewis,Female,1990-06-19,Higher Certificate,Ohio,Financial Analyst,6,4529,2015-05-21,,,,No,Finance / Accounting,Phelipp
+16,17,Aya Perry,Female,1990-03-18,Bachelor's Incompleted,New York,Pogrammer Analyst,5,3625,2016-01-06,,2016-07-04,Unfair Dismissal,No,Development,Leyla
+17,18,Karina Mcdonald,Female,1992-09-01,Bachelor's Completed,Washington,Administrative Assistant,6,4047,2016-01-21,,2016-06-19,Mutual Agreement,No,Finance / Accounting,Phelipp
+18,19,Ela Moss,Female,1986-06-29,Bachelor's Completed,New York,Salesperson,7,4493,2016-02-02,,,,,Sales,Gabriela
+19,20,Emmie Hall,Female,1994-06-04,Bachelor's Completed,Ohio,Developer,9,4257,2016-03-26,,,,No,Development,Leyla
+20,21,Harriet Knight,Female,1990-06-05,Bachelor's Completed, Montana,Developer,7,4534,2016-07-04,,,,No,Development,Leyla
+21,22,Flora Parry,Female,1983-11-16,Major's,Washington,Database Analyst,7,4047,2016-07-24,,2018-08-03,Unfair Dismissal,No,Strategy,Antonella
+22,23,Anayah Lee,Female,1979-01-29,Major's,Missouri,Business Intelligence Analyst,10,4493,2017-08-27,,,,No,Strategy,Antonella
+23,24,Polly George,Female,1977-06-24,Major's, Montana,Developer,9,4257,2017-10-17,,,,No,Development,Leyla
+24,25,Madeline Powell,Female,1975-11-18,Postgraduate,Ohio,Developer,7,4529,2018-01-25,2015-11-09,,,No,Development,Leyla
+25,26,Hallie Lawson,Female,1991-03-24,Postgraduate,Missouri,Developer,5,4047,2018-09-30,,,,Yes,Development,Leyla
+26,27,Melody Francis,Female,1966-04-15,Master's,Alabama,Developer,6,3754,2018-12-01,,2019-01-30,Resignation,No,Development,Leyla
+27,28,Victoria Reid,Female,1996-10-20,Doctoral,Colorado,Developer,10,4529,2019-02-01,,,,No,Development,Leyla
+28,29,Hanna Booth,Female,1961-06-28,Higher Certificate,Washington,Systems Analyst,10,3625,2019-04-06,,,,No,Development,Leyla
+29,30,Esme Lloyd,Female,1969-03-01,Higher Certificate, Montana,Internship,5,3754,2019-06-23,,2019-12-20,End of Internishp Contract,Yes,Development,Leyla
+30,31,Clara White,Female,1990-07-12,Bachelor's Incompleted,Texas,Systems Analyst,7,4211,2019-11-15,,,,No,Development,Leyla
+31,32,Nancy Hudson,Female,1996-03-29,Bachelor's Completed,Texas,Technical Support Analyst,8,4211,2019-11-20,,,,No,Technology,Sidney
+32,33,Kara Chapman,Female,1991-08-27,Bachelor's Completed,Washington,Systems Analyst,10,3625,2019-12-05,,,,Yes,Development,Leyla
+33,34,Betsy Booth,Female,1992-04-04,Bachelor's Completed, Montana,Technical Support Analyst,9,3754,2019-12-15,,,,No,Technology,Sidney
+34,35,James Barker,Male,1990-04-09,Bachelor's Completed,Oregon,Pogrammer Analyst,9,4064,2011-02-10,,,,No,Development,Leyla
+35,36,Jude Dixon,Male,1980-09-05,Major's,Alabama,Administrative Assistant,7,4576,2011-05-09,,2015-09-01,Dismissal,No,Finance / Accounting,Phelipp
+36,37,Matteo Hawkins,Male,1993-06-13,Major's, Arizona,Developer,5,3909,2012-06-15,,2016-02-19,Resignation,No,Development,Leyla
+37,38,Asher Morris,Male,1990-11-12,Major's,Colorado,Pogrammer Analyst,8,4233,2012-07-05,,,,No,Development,Leyla
+38,39,Jonah Thompson,Male,1995-03-23,Postgraduate, Montana,Administrative Assistant,9,3958,2012-10-08,,2017-05-20,Unfair Dismissal,No,Finance / Accounting,Phelipp
+39,40,Ethan Fisher,Male,1980-01-29,Postgraduate,Washington,Developer,9,4383,2013-10-17,,2018-03-16,Unfair Dismissal,No,Development,Leyla
+40,41,Fraser Kelly,Male,1983-01-28,Master's,Washington,Administrative Analyst,10,4493,2013-12-19,2017-08-12,,,No,Finance / Accounting,Phelipp
+41,42,Marcel Parry,Male,1991-06-10,Doctoral,Texas,Accounting Analyst,9,4006,2014-02-20,,,,No,Finance / Accounting,Phelipp
+42,43,Rowan Jordan,Male,1975-08-25,Higher Certificate,Texas,Database Analyst,8,3754,2014-05-31,,2015-09-06,Resignation,No,Strategy,Antonella
+43,44,Jackson Cunningham,Male,1984-11-27,Higher Certificate,Texas,Business Intelligence Analyst,10,4325,2014-09-08,,,,No,Strategy,Antonella
+44,45,Seth Watts,Male,2001-06-18,Bachelor's Incompleted,Colorado,Communication Analyst,9,4133,2015-01-01,,,,No,Marketing,Phelipp
+45,46,Levi Spencer,Male,1982-11-12,Bachelor's Completed, Montana,Personnel Analyst,7,4034,2015-02-26,2020-01-22,,,No,Finance / Accounting,Phelipp
+46,47,Ralphy Griffiths,Male,1975-10-23,Bachelor's Completed,Missouri,Marketing Analyst,5,4299,2015-03-27,,,,No,Marketing,Phelipp
+47,48,Callum Lane,Male,1999-01-24,Bachelor's Completed,New York,Business Analyst,7,3944,2015-04-16,,2015-10-19,Resignation,No,Development,Leyla
+48,49,Spencer Ellis,Male,1996-08-31,Bachelor's Completed,Ohio,Market Research Analyst,5,3617,2015-06-05,,2017-06-05,Unfair Dismissal,No,Sales,Gabriela
+49,50,Kian Byrne,Male,1995-11-13,Major's,Oregon,Systems Analyst,10,3917,2015-09-01,,,,No,Development,Leyla
+50,51,Nicolas Matthews,Male,1995-01-25,Major's,Missouri,Technical Support Analyst,6,3985,2015-09-06,2018-03-05,,,No,Technology,Sidney
+51,52,Liam Hunt,Male,1970-04-12,Major's,New York,Test Analyst,10,3750,2015-10-13,,,,No,Development,Leyla
+52,53,Kane Cunningham,Male,1994-04-08,Postgraduate,Ohio,Usability Analyst,7,3609,2015-10-19,2015-11-09,2016-05-07,Resignation,No,Development,Leyla
+53,54,George Porter,Male,1993-06-20,Postgraduate,Oregon,Financial Analyst,7,4079,2016-01-06,,,,No,Finance / Accounting,Phelipp
+54,55,Brody Thomas,Male,1991-11-14,Master's,Alabama,Pogrammer Analyst,7,3793,2016-02-05,,2016-03-21,Resignation,No,Development,Leyla
+55,56,Albi Simpson,Male,1991-01-26,Doctoral, Arizona,Administrative Assistant,5,4355,2016-02-05,,,,No,Finance / Accounting,Phelipp
+56,57,Spencer Chambers,Male,1989-06-21,Higher Certificate,Colorado,Developer,8,4324,2016-02-19,,,,No,Development,Leyla
+57,58,Samuel Wilson,Male,1988-09-02,Higher Certificate, Montana,Developer,5,4152,2016-04-28,2020-01-22,,,No,Development,Leyla
+58,59,Ayan Walker,Male,1987-11-15,Bachelor's Incompleted,Washington,Developer,8,3689,2016-05-05,,,,No,Development,Leyla
+59,60,Kit Bradley,Male,1987-01-27,Bachelor's Completed,Washington,Database Analyst,8,4028,2016-05-07,,,,No,Strategy,Antonella
+60,61,Otis Chambers,Male,1986-04-10,Bachelor's Completed,Washington,Business Intelligence Analyst,8,3859,2016-05-13,,2017-06-10,Resignation,No,Strategy,Antonella
+61,62,Simon Anderson,Male,1985-06-22,Bachelor's Completed,Texas,Developer,7,4492,2016-05-20,,,,Yes,Development,Leyla
+62,63,Oskar Saunders,Male,1984-09-03,Bachelor's Completed,Texas,Developer,6,4047,2016-06-09,2018-03-05,,,No,Development,Leyla
+63,64,Roman Morris,Male,1996-01-09,Major's,Texas,Developer,10,4263,2016-06-19,,,,No,Development,Leyla
+64,65,Benjamin Bradley,Male,1968-10-27,Major's,Texas,Developer,5,4150,2016-09-04,2015-11-09,,,No,Development,Leyla
+65,66,Ashley Ross,Male,1968-09-07,Major's,Rhode Island,Developer,5,4208,2016-10-22,,,,No,Development,Leyla
+66,67,Tobias John,Male,1983-01-28,Postgraduate,Rhode Island,Systems Analyst,9,4275,2017-01-18,,2019-03-09,Unfair Dismissal,No,Development,Leyla
+67,68,Maximus Howard,Male,1982-04-11,Postgraduate,Rhode Island,Technical Support Analyst,9,3922,2017-02-07,,,,No,Technology,Sidney
+68,69,Vinnie Davidson,Male,1981-06-23,Master's,Oregon,Systems Analyst,9,4003,2017-05-20,,,,No,Development,Leyla
+69,70,Asher Watson,Male,1980-09-04,Doctoral,Oregon,Technical Support Analyst,7,3901,2017-06-10,,,,No,Technology,Sidney
+70,71,Fletcher Carter,Male,1979-11-17,Higher Certificate,Oregon,Systems Analyst,5,3952,2017-08-27,,,,No,Development,Leyla
+71,72,Jasper Richards,Male,1978-04-12,Higher Certificate,Mississippi,Technical Support Analyst,10,4161,2017-10-07,,2019-06-30,Unfair Dismissal,No,Technology,Sidney
+72,73,Kairo Mccarthy,Male,1976-09-05,Bachelor's Incompleted,Mississippi,Pogrammer Analyst,7,3643,2017-11-13,,,,No,Development,Leyla
+73,74,Zain Fraser,Male,1975-01-30,Bachelor's Completed,Mississippi,Commercial Assistant,6,4252,2018-01-30,,2018-08-03,Unfair Dismissal,No,Sales,Gabriela
+74,75,Damian Moss,Male,1974-04-13,Bachelor's Completed,Mississippi,Developer,7,4063,2018-03-16,,,,No,Development,Leyla
+75,76,Richard Wilkinson,Male,1983-01-28,Bachelor's Completed,Mississippi,Pogrammer Analyst,6,4434,2018-03-16,,2018-04-16,Resignation,No,Development,Leyla
+76,77,Bradley Wright,Male,1973-06-25,Bachelor's Completed, Maryland,Commercial Assistant,8,4403,2018-04-05,,,,No,Sales,Gabriela
+77,78,Denis Webb,Male,1972-09-06,Major's, Maryland,Developer,8,4425,2018-05-20,,,,No,Development,Leyla
+78,79,Martin Cox,Male,2000-02-02,Major's, Maryland,Internship,10,4005,2018-06-15,,2019-06-14,End of Internishp Contract,No,Development,Leyla
+79,80,Thomas Davis,Male,1971-01-31,Major's, Maryland,Business Intelligence Analyst,7,3769,2018-08-03,,,,No,Strategy,Antonella
+80,81,Rudy Rees,Male,1970-04-14,Postgraduate,Hawaii,Developer,9,4500,2018-08-18,,,,No,Development,Leyla
+81,82,Fabian Spencer,Male,1967-11-20,Postgraduate,Hawaii,Developer,5,3906,2018-11-06,,,,No,Development,Leyla
+82,83,Zakariya Mills,Male,1967-02-01,Master's,Hawaii,Systems Analyst,7,4211,2018-11-26,,,,Yes,Development,Leyla
+83,84,Ralphy Palmer,Male,1965-06-27,Doctoral,Hawaii,Technical Support Analyst,8,3904,2018-12-11,,,,No,Technology,Sidney
+84,85,Alby Foster,Male,1964-09-08,Higher Certificate,Hawaii,Systems Analyst,9,4543,2018-12-15,,,,No,Development,Leyla
+85,86,Aryan Reynolds,Male,1963-11-21,Higher Certificate,Alabama,Commercial Assistant,10,4430,2018-12-17,,2019-03-17,Resignation,No,Sales,Gabriela
+86,87,Grayson Lowe,Male,1986-04-15,Bachelor's Incompleted, Arizona,Developer,9,4183,2019-05-05,,,,No,Development,Leyla
+87,88,Antonio Ball,Male,1984-08-17,Bachelor's Completed,Colorado,Pogrammer Analyst,10,4308,2019-07-25,,,,No,Development,Leyla
+88,89,Ethan Simpson,Male,1969-07-14,Bachelor's Completed, Maryland,Salesperson,7,3920,2019-08-04,,,,No,Sales,Gabriela
+89,90,Blake Barker,Male,1982-06-13,Doctoral,Hawaii,Developer,7,4001,2019-10-10,,,,Yes,Development,Leyla
