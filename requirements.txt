@@ -4,4 +4,3 @@ pandas
 plotly
 dash_bootstrap_components
 gunicorn
-numexpr==2.7.3;
