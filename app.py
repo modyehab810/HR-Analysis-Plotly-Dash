@@ -638,7 +638,7 @@ def get_content_layout(pathname, year_value, filter_type, dep_value, target_them
             year_filt = (df["Hire_Date"].dt.year == year_value)
 
         departments = df.loc[year_filt, "Department"].unique().tolist()
-        departments.insert(0, "All Years")
+        departments.insert(0, "All Departments")
     else:
         departments = df.loc[:, "Department"].unique().tolist()
         departments.insert(0, "All Departments")
