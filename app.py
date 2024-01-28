@@ -365,7 +365,7 @@ def create_gender_department_chart(the_year, filter_type, chart_theme):
             "family": "tahoma",
             "color": "#000"
         },
-        hovertemplate="Department: %{x}<br>Gender Frequency: %{y}",
+        hovertemplate="Department: %{y}<br>Gender Frequency: %{x}",
         marker=dict(line=dict(color='#222', width=1))
     )
     return fig
@@ -395,7 +395,7 @@ def create_salary_department_chart(the_year, filter_type, chart_theme):
             "family": "tahoma",
             "color": "#000"
         },
-        hovertemplate="Department: %{x}<br>Average Salary: %{y:0.3s}",
+        hovertemplate="Department: %{y}<br>Average Salary: %{x:0.3s}",
         marker=dict(line=dict(color='#222', width=1))
 
     )
