@@ -9,3 +9,4 @@ HR Analysis | Plotly Dashboard
 
 # Performance Page (Dark Theme) 🥰
 ![dark_theme](https://github.com/modyehab810/HR-Analysis-Plotly-Dash/assets/114261123/cc24d000-09ca-46b5-ab9d-852fc992e51a)
+
